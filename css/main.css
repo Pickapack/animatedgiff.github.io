@@ -25,3 +25,8 @@ p {
     color: rgba(255, 255, 255, 0.8);
     font-family: Garamond, Georgia, serif;
 }
+
+ul {
+    font-size: 1em;
+    font-family: Garamond, Georgia, serif;
+}
