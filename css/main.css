@@ -7,8 +7,8 @@ body {
 }
 
 a {
-    color: rgb(90, 114, 232);
-    color: rgba(90, 114, 232, 0.8);
+    color: rgb(0, 0, 0);
+    color: rgba(0, 0, 0, 0.8);
 }
 
 a:hover {
