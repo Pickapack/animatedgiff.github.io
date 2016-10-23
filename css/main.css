@@ -19,6 +19,12 @@ h1 {
     font-family: Bitter, Georgia, serif;
 }
 
+#header-text {
+  text-align: center;
+  top: 25%;
+  width: 60%;
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.5em;
