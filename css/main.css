@@ -6,7 +6,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-image: url("https://images6.alphacoders.com/709/709023.jpg");
-/*    opacity: 0.6;*/
+    opacity: 0.6;
 }
 nav ul, footer ul {
     padding: 0px;
