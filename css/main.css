@@ -1,12 +1,9 @@
-* {
-    font-family: Georgia;
-}
-
 body {
     background-image: url("https://images6.alphacoders.com/709/709023.jpg");
 }
 
 a {
+    text-decoration: none;
     color: rgb(0, 0, 0);
     color: rgba(0, 0, 0, 0.8);
 }
@@ -15,14 +12,16 @@ a:hover {
     text-decoration: underline;
 }
 
-h3 {
+h1 {
     font-size: 2em;
     color: rgb(0, 0, 0);
     color: rgba(0, 0, 0, 0.5)
+    font-family: Georgia;
 }
 
 p {
     font-size: 1.5em;
     color: rgb(255, 255, 255);
     color: rgba(255, 255, 255, 0.8);
+    font-family: Helvetica;
 }
