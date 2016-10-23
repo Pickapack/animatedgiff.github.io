@@ -15,7 +15,7 @@ a:hover {
 h1 {
     font-size: 2em;
     color: rgb(0, 0, 0);
-    color: rgba(0, 0, 0, 0.5)
+    color: rgba(0, 0, 0, 0.5);
     font-family: Georgia;
 }
 
@@ -23,5 +23,5 @@ p {
     font-size: 1.5em;
     color: rgb(255, 255, 255);
     color: rgba(255, 255, 255, 0.8);
-    font-family: Helvetica;
+    font-family: Garamond;
 }
