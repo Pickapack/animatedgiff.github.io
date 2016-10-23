@@ -16,17 +16,17 @@ h1 {
     font-size: 2em;
     color: rgb(0, 0, 0);
     color: rgba(0, 0, 0, 0.5);
-    font-family: Georgia, serif;
+    font-family: Bitter, Georgia, serif;
 }
 
 p {
     font-size: 1.5em;
     color: rgb(255, 255, 255);
     color: rgba(255, 255, 255, 0.8);
-    font-family: Garamond, Georgia, serif;
+    font-family: Bitter, Georgia, serif;
 }
 
 ul {
     font-size: 1em;
-    font-family: Garamond, Georgia, serif;
+    font-family: Bitter, Georgia, serif;
 }
