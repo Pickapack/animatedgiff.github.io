@@ -23,6 +23,7 @@ h1 {
     font-family: Bitter, Georgia, serif;
     min-width: 20em;
     max-width: 40em;
+    margin: auto;
 }
 
 #header-text {
@@ -37,7 +38,8 @@ p {
     color: rgb(255, 255, 255);
     color: rgba(255, 255, 255, 0.8);
     font-family: Bitter, Georgia, serif;
-    margin: 0 2em 50em 2em;
+    margin: auto;
+    padding: 0 2em 50em 2em;
     min-width: 20em;
     max-width: 40em;
 }
