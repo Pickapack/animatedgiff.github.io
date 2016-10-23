@@ -7,30 +7,37 @@ body {
     width: 70%;
     background-image: url("https://images6.alphacoders.com/709/709023.jpg");
 }
+
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #a0bbe5;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h3 {
     font-size: 2em;
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #e3e7ed;
+    color: #d1be8e;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -44,6 +51,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
 img {
     border-radius: 100%;
     /*clip-path: ellipse(60px 40px at 75px 30px);*/
