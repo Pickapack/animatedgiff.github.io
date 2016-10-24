@@ -4,6 +4,12 @@
     background-position: top left;
 }
 
+.jumbotron-featured {
+    background-image: url("http://dskogsphoto.com/wp-content/uploads/2012/05/2246-Sunrise-Mesa-Arch-Arches-National-Park-UT.jpg");
+    height: 40em;
+    background-position: top left;
+}
+
 a {
     text-decoration: none;
     color: #2f2f72;
