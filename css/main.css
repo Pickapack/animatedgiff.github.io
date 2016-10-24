@@ -1,10 +1,4 @@
-.jumbotron {
-    height: 7em;
-    font-family: Bitter, Georgia, serif;
-    color: #6b6b6b;
-}
-
-.jumbotron-featured {
+.header {
     height: 7em;
     font-family: Bitter, Georgia, serif;
     color: #6b6b6b;
@@ -58,4 +52,9 @@ p {
 ul {
     font-size: 1em;
     font-family: Bitter, Georgia, serif;
+}
+
+.featured-img {
+    opacity: .6;
+    max-height: 20em;
 }
