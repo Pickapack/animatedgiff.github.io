@@ -2,7 +2,7 @@
     background-image: url("https://www.indivisible.us/wp-content/uploads/2016/01/Rocky-Mountains-4.jpg");
     height: 60em;
     font-family: Bitter, Georgia, serif;
-    background-position: 0em 7em; 
+    background-position: 0% 50%; 
     background-repeat: no-repeat;
     color: #6b6b6b;
 }
@@ -11,7 +11,7 @@
     background-image: url("http://cdn.wallpapersafari.com/4/28/fsnSCO.jpg");
     height: 60em;
     font-family: Bitter, Georgia, serif;
-    background-position: 0em 7em;     
+    background-position: 0% 50%;     
     background-repeat: no-repeat;    
     color: #6b6b6b;
 }
