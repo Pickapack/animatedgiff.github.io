@@ -1,6 +1,6 @@
 .jumbotron {
     background-image: url("https://www.indivisible.us/wp-content/uploads/2016/01/Rocky-Mountains-4.jpg");
-    height: 30em;
+    height: 60em;
     background-position: top left;
 }
 
@@ -25,7 +25,7 @@ h1 {
     text-align: center;
     top: 25%;
     width: 100%;
-    padding-top: 1em;
+    padding-top: 2em;
 }
 
 p {
