@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url("https://npca.s3.amazonaws.com/images/8920/1c4acee9-9239-46f3-8427-137dba19f928-wide.jpg?1445971193");
+    background-image: url("https://www.indivisible.us/wp-content/uploads/2016/01/Rocky-Mountains-4.jpg");
     height: 20em;
     background-position: top center;
 }
@@ -38,6 +38,7 @@ p {
     padding: 2em 2em 50em 2em;
     min-width: 20em;
     max-width: 40em;
+    background-color: #64bf5b;
 }
 
 ul {
