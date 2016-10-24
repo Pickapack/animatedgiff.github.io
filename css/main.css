@@ -1,14 +1,16 @@
 .jumbotron {
     background-image: url("https://www.indivisible.us/wp-content/uploads/2016/01/Rocky-Mountains-4.jpg");
     height: 60em;
-    background-position: top left; 
+    background-position: center; 
+    background-repeat: no-repeat;
 }
 
 .jumbotron-featured {
     background-image: url("http://cdn.wallpapersafari.com/4/28/fsnSCO.jpg");
     height: 40em;
-    background-position: top left;
+    background-position: center;
     font-family: Bitter, Georgia, serif;
+    background-repeat: no-repeat;
 }
 
 a {
