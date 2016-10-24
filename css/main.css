@@ -22,12 +22,10 @@ h1 {
     min-width: 20em;
     max-width: 40em;
     margin: auto;
-}
-
-#header-text {
-  text-align: center;
-  top: 25%;
-  width: 100%;
+    text-align: center;
+    top: 25%;
+    width: 100%;
+    padding-top: 1em;
 }
 
 p {
