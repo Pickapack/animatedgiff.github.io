@@ -3,6 +3,8 @@
     height: 60em;
     background-position: center; 
     background-repeat: no-repeat;
+    color: rgb(0, 0, 0);
+    color: rgba(0, 0, 0, 0.6);    
 }
 
 .jumbotron-featured {
@@ -11,6 +13,8 @@
     background-position: center;
     font-family: Bitter, Georgia, serif;
     background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    color: rgba(255, 255, 255, 0.6);    
 }
 
 a {
@@ -24,8 +28,6 @@ a:hover {
 
 h1 {
     font-size: 4em;
-    color: rgb(0, 0, 0);
-    color: rgba(0, 0, 0, 0.6);
     padding-top: 1em;
     font-family: Bitter, Georgia, serif;
     min-width: 20em;
@@ -38,8 +40,6 @@ h1 {
 
 h2 {
     font-size: 3em;
-    color: rgb(0, 0, 0);
-    color: rgba(0, 0, 0, 0.6);
     padding-top: 1em;
     font-family: Bitter, Georgia, serif;
     min-width: 20em;
