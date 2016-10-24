@@ -31,14 +31,13 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.5em;
-    color: rgb(255, 255, 255);
-    color: rgba(255, 255, 255, 0.3);
+    color: #3a722f;
     font-family: Bitter, Georgia, serif;
     margin: auto;
     padding: 2em 2em 50em 2em;
     min-width: 20em;
     max-width: 40em;
-    background-color: #64bf5b;
+    background-color: #fff;
 }
 
 ul {
