@@ -21,11 +21,12 @@ img {
 
 h1 {
     color: #287165;
-    font-size: 4em;
-    word-spacing: 0.5;
+    font-size: 5em;
+    word-spacing: 0.1em;
+    letter-spacing: 0.1em;
     font-style: bold;
 /*    text-align: center;*/
-    height: 3em;
+    height: 1.5em;
 }
 
 h2 {
