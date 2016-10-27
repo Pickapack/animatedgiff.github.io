@@ -2,6 +2,8 @@
     font-family: Bitter, Georgia, serif;
     background-color: #C6E2BF;
     border: 1px solid #fff;
+    min-width: 40em;
+    max-width: 100em;
 }
 
 a {
@@ -23,6 +25,7 @@ h1 {
     word-spacing: 0.5;
     font-style: bold;
 /*    text-align: center;*/
+    height: 3em;
 }
 
 h2 {
@@ -45,7 +48,10 @@ p {
     font-style: italic;
 }
 
-
+.parks {
+    border: solid #8ac37b 5px;
+    border-radius: 10px;
+}
 /***
 .header {
     height: 7em;
