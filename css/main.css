@@ -1,7 +1,5 @@
-.header {
-    height: 7em;
+* {
     font-family: Bitter, Georgia, serif;
-    color: #6b6b6b;
 }
 
 a {
@@ -11,6 +9,31 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+img {
+    
+}
+
+h1 {
+    color: #722114;
+    font-size: 4em;
+}
+
+h2 {
+    color: #722114;
+    font-size: 3em;
+}
+
+p {
+    color: #5285d8;
+    font-size: 1.5em;
+}
+
+/***
+.header {
+    height: 7em;
+    color: #6b6b6b;
 }
 
 h1 {
@@ -54,7 +77,5 @@ ul {
     font-family: Bitter, Georgia, serif;
 }
 
-.featured-img {
-    opacity: .6;
-    max-height: 10em;
-}
+
+***/
