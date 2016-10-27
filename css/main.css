@@ -20,7 +20,7 @@ img {
 }
 
 h1 {
-    color: #499635;
+    color: #287165;
     font-size: 4em;
     word-spacing: 0.5;
     font-style: bold;
@@ -29,13 +29,13 @@ h1 {
 }
 
 h2 {
-    color: #69AE57;
+    color: #499635;
     font-size: 3em;
     text-transform: uppercase;
 }
 
 p {
-    color: #69AE57;
+    color: #499635;
     font-size: 1.5em;
     line-height: 1.75em;
 }
@@ -53,9 +53,10 @@ p {
 }
 
 .parks {
-    border: solid #499635 .5em;
+    border: solid #69ae57 .5em;
     border-radius: 2em;
     margin-left: 4%;
+    padding-left: 4%;
 }
 
 
