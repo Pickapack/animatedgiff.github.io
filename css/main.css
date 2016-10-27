@@ -50,7 +50,7 @@ p {
 
 .parks {
     border: solid #8ac37b 5px;
-    border-radius: 10px;
+    border-radius: 2em;
 }
 /***
 .header {
