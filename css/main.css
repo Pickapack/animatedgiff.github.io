@@ -17,16 +17,19 @@ img {
 
 h1 {
     color: #722114;
+    background-color: #fba597;
     font-size: 4em;
 }
 
 h2 {
     color: #722114;
+    background-color: #3b0800;
     font-size: 3em;
 }
 
 p {
-    color: #5285d8;
+    color: #0e0200;
+    background-color: #3b0800;
     font-size: 1.5em;
 }
 
