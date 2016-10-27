@@ -48,10 +48,17 @@ p {
     font-style: italic;
 }
 
+.nobox {
+    padding-left:8%;
+}
+
 .parks {
     border: solid #499635 .5em;
     border-radius: 2em;
+    margin-left: 4%;
 }
+
+
 /***
 .header {
     height: 7em;
