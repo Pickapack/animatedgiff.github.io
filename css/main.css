@@ -19,16 +19,21 @@ img {
 h1 {
     color: #499635;
     font-size: 4em;
+    word-spacing: 0.5;
+    font-style: bold;
+    text-align: center;
 }
 
 h2 {
     color: #69AE57;
     font-size: 3em;
+    text-transform: uppercase;
 }
 
 p {
     color: #69AE57;
     font-size: 1.5em;
+    line-height: 2em;
 }
 
 /***
