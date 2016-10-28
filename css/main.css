@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    padding: 0;
     background-color: #fff;
 }
 
@@ -18,7 +19,7 @@ body {
      float: left;
      font-size: 1.4em;
      display: block; 
-     padding: 15px 15px;
+     padding: 1em;
 }
 
 li a {
