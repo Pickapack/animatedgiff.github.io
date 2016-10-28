@@ -1,8 +1,6 @@
 * {
     font-family: Rosario, Georgia, serif;
     background-color: #e0ecff;
-/*    border: 1px solid #fff;*/
-/*    min-width: 40em;*/
     max-width: 100em;
 }
 
@@ -28,7 +26,7 @@ li {
     background-color: #333;
 }
 
-
+/*
 a {
     text-decoration: none;
     color: #01CBAF;
@@ -46,9 +44,6 @@ h1 {
     color: #324776;
     font-size: 5em;
     font-style: bold;
-/*  text-align: center;
-    word-spacing: 0.1em;
-    letter-spacing: 0.1em;*/
     height: 2em;
 }
 
@@ -64,3 +59,4 @@ p {
     line-height: 1.75em;
 }
 
+*/
