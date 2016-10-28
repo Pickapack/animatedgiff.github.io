@@ -2,11 +2,13 @@ body {
     margin: 0;
     padding: 0;
     background-color: #fff;
+    font-family: Rosario;
 }
 
 .nav {
     position: fixed;
     top: 0;
+
 }
 
 .nav ul {
