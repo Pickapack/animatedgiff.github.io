@@ -12,7 +12,7 @@ body {
 }
 
 .nav ul {
-    background-color: #d9e4f4;
+    background-color: #324776;
     position: fixed;
     width: 100%;
     margin: 0;
@@ -21,20 +21,30 @@ body {
 
 .nav li {
      float: right;
-     font-size: 1.4em;
+     font-size: 1.2em;
      display: block; 
      padding: 1em;
 }
 
 .nav a {
-    color:#324776;
+    color:#cac9c9;
     display: block;
     padding: 8px;
     text-decoration: none;
 }
 
-.active {
-    background-color: #4CAF50;
+.home {
+    margin: 16em 4em 4em 4em;
+}
+
+.home h1 {
+    color: #324776;
+    font-size: 4em;
+}
+
+.home h2 {
+    color: #7c7c7c;
+    font-size: 2.5em;
 }
 
 /*
