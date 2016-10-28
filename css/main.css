@@ -1,26 +1,6 @@
-/*Colors
-    Darkest blue: 0A42A2
-    Dark blue: 155AD0
-    Blue: 3974D9
-    Light blue: 5C8EE2
-    Lightest blue: 87ACEC
-
-    Darkest purple: 2a0ea9
-    Dark purple: 3d1bd4
-    Purple: 5c3fdc
-    Light purple: 7961E4
-    Lighest purple: 9D8BED
-
-    Darkest green: 009984
-    Dark green: 01CBAF
-    Green: 28D5BD
-    Light green: 4DDFCB
-    Lightest green: 7BEADB
-**/
-
 * {
     font-family: Rosario, Georgia, serif;
-    background-color: #87ACEC;
+    background-color: #e0ecff;
 /*    border: 1px solid #fff;*/
 /*    min-width: 40em;*/
     max-width: 100em;
@@ -40,7 +20,7 @@ img {
 }
 
 h1 {
-    color: #0A42A2;
+    color: #324776;
     font-size: 5em;
     font-style: bold;
 /*  text-align: center;
@@ -50,9 +30,30 @@ h1 {
 }
 
 h2 {
-    color: #2a0ea9;
+    color: #556893;
     font-size: 3em;
-/*    text-transform: uppercase;*/
+    
+}
+
+.nav {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    display: inline;
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+    float: left;
+
 }
 
 p {
@@ -61,60 +62,3 @@ p {
     line-height: 1.75em;
 }
 
-
-/***
-.header {
-    height: 7em;
-    color: #6b6b6b;
-}
-
-.parks {
-    border: solid #69ae57 .5em;
-    border-radius: 2em;
-    margin-left: 4%;
-    padding-left: 4%;
-}
-
-h1 {
-    font-size: 4em;
-    padding-top: .2em;
-    font-family: Bitter, Georgia, serif;
-    min-width: 20em;
-    max-width: 40em;
-    margin: auto;
-    text-align: center;
-    top: 25%;
-    width: 100%;   
-}
-
-h2 {
-    font-size: 3em;
-    padding-top: 1em;
-    font-family: Bitter, Georgia, serif;
-    min-width: 20em;
-    max-width: 40em;
-    margin: auto;
-    text-align: center;
-    top: 25%;
-    width: 100%;   
-}
-
-p {
-    font-size: 1.5em;
-    line-height: 1.5em;
-    color: #3a722f;
-    font-family: Bitter, Georgia, serif;
-    margin: auto;
-    padding: 2em 2em 50em 2em;
-    min-width: 20em;
-    max-width: 40em;
-    background-color: #fff;
-}
-
-ul {
-    font-size: 1em;
-    font-family: Bitter, Georgia, serif;
-}
-
-
-***/
