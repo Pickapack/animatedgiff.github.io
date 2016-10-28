@@ -12,7 +12,7 @@ body {
 }
 
 .nav ul {
-    background-color: #324776;
+    background-color: rgba(50, 71, 118, 0.9);
     position: fixed;
     width: 100%;
     margin: 0;
@@ -34,7 +34,7 @@ body {
 }
 
 .home {
-    margin: 16em 4em 4em 4em;
+    margin: 16em 4em 8em 4em;
 }
 
 .home h1 {
