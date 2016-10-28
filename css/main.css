@@ -52,47 +52,31 @@ body {
     font-size: 2.5em;
 }
 
-.background {
-    margin: 12em 1em 4em 4em;
-}
-
 .spacer {
     background-color: #324776;
     width: 100%;
     height: 20em;
 }
 
-/*
-a {
-    text-decoration: none;
-    color: #01CBAF;
+.background {
+    margin: 8em 1em 4em 4em;
 }
 
-a:hover {
-    text-decoration: underline;
-}
-
-img {
-    
-}
-
-h1 {
+.background h1 {
     color: #324776;
-    font-size: 5em;
-    font-style: bold;
-    height: 2em;
 }
 
-h2 {
-    color: #556893;
-    font-size: 3em;
-    
+.background li {
+    font-size: 1.2em;
+    display: block; 
+    padding: 0em 0.8em;
+    margin: 1em 0em;
 }
 
-p {
-    color: #155AD0;
-    font-size: 1.5em;
-    line-height: 1.75em;
+.background_left {
+    float: left;
 }
 
-*/
+.background_right {
+    float: right;
+}
