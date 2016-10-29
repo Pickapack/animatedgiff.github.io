@@ -81,19 +81,19 @@ body {
 .background h2 {
     color: #7c7c7c;
     text-align: center;
-    margin: 0em 14em 0em 14em;
+    margin: 0em 14em 2em 14em;
 }
 
 .background ul {
     padding: 0em 0em 0em 0em;
-    margin: 0em 3em 0em 3em;
+    margin: 0em 0em 0em 0em;
 }
 
 .background li {
     font-size: 0.9em;
     display: block; 
     padding: 0em 0em 0em 0em;
-    margin: 4em 2em 0em 2em;
+    margin: 0em 2em 2em 2em;
 }
 
 .background_left {
@@ -106,4 +106,10 @@ body {
     text-align: center;
     float: right;
     width: 50%;
+}
+
+.background li img {
+    height: 25%;
+    width: 25%;
+    margin: auto;
 }
