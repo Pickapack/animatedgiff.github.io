@@ -64,9 +64,17 @@ body {
     margin: 8em 0em 4em 0em;
 }
 
+.background img {
+    margin: auto;
+    display: block;
+    border-radius: 4em;
+
+}
+
 .background h1 {
     color: #324776;
     text-align: center;
+    margin: 3em 0em 0em 0em;
 }
 
 .background li {
