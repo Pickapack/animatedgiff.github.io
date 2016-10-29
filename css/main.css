@@ -4,6 +4,7 @@ body {
     background-color: #fff;
     font-family: Poppins;
     min-width: 80em;
+    max-width: 120em;
 }
 
 .nav {
@@ -75,6 +76,12 @@ body {
     color: #324776;
     text-align: center;
     margin: 2em 0em 0em 0em;
+}
+
+.background h2 {
+    color: #7c7c7c;
+    text-align: center;
+    margin: 0em 14em 0em 14em;
 }
 
 .background li {
