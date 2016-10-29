@@ -84,26 +84,26 @@ body {
     margin: 0em 14em 0em 14em;
 }
 
-.background li {
-    font-size: 1.2em;
-    display: block; 
-    padding: 0em 0em;
-    margin: 0em 0em;
+.background ul {
+    padding: 0em 0em 0em 0em;
+    margin: 0em 3em 0em 3em;
 }
 
-.background ul {
-    padding: 0em;
-    margin: 0em 4em;
+.background li {
+    font-size: 0.9em;
+    display: block; 
+    padding: 0em 0em 0em 0em;
+    margin: 4em 2em 0em 2em;
 }
 
 .background_left {
     text-align: center;
     float: left;
-    width: 40%;
+    width: 50%;
 }
 
 .background_right {
     text-align: center;
     float: right;
-    width: 40%;
+    width: 50%;
 }
