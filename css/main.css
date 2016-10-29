@@ -58,6 +58,7 @@ body {
     height: 20em;
 }
 
+
 .background {
     margin: 8em 0em 4em 0em;
 }
@@ -74,10 +75,18 @@ body {
     margin: 0em 0em;
 }
 
+.background ul {
+    padding: 0em;
+    margin: 0em 4em;
+}
+
 .background_left {
+    text-align: right;
     float: left;
+    display: block;
 }
 
 .background_right {
+    text-align: right;
     float: right;
 }
