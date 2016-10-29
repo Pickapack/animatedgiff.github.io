@@ -109,8 +109,7 @@ body {
 }
 
 .background li img {
-    height: 25%;
-    width: 25%;
+    height: 10em;
     margin: auto;
-    border-radius: 0%;    
+    border-radius: 0;
 }
