@@ -77,22 +77,16 @@ body {
     margin: 2em 0em 0em 0em;
 }
 
-.background h2 {
-    color: #7c7c7c;
-    text-align: center;
-    margin: 2em 0em 0em 0em;
-}
-
 .background li {
     font-size: 1.2em;
     display: block; 
-    padding: 0em 0em 0em 0em;
-    margin: 0em 0em 0em 0em;
+    padding: 0em 0em;
+    margin: 0em 0em;
 }
 
 .background ul {
-    padding:0em 0em 0em 0em;
-    margin: 0em 4em 0em 4em;;
+    padding: 0em;
+    margin: 0em 4em;
 }
 
 .background_left {
