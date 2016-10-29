@@ -3,6 +3,7 @@ body {
     padding: 0;
     background-color: #fff;
     font-family: Poppins;
+    min-width: 80em;
 }
 
 .nav {
@@ -81,12 +82,13 @@ body {
 }
 
 .background_left {
-    text-align: right;
+    text-align: center;
     float: left;
-    display: block;
+    width: 40%;
 }
 
 .background_right {
-    text-align: right;
+    text-align: center;
     float: right;
+    width: 40%;
 }
