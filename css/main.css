@@ -112,4 +112,5 @@ body {
     height: 10em;
     margin: auto;
     border-radius: 0;
+    display: inline;
 }
