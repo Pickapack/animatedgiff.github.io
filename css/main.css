@@ -117,3 +117,9 @@ body {
     border-radius: 0;
     display: inline;
 }
+
+.passions h1 {
+    color: #324776;
+    text-align: center;
+    margin: 2em 0em 0em 0em;
+}
