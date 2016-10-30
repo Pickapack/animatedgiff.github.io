@@ -131,11 +131,11 @@ body {
     margin: 2% 2% 2% 4%;
 }
 
-.passions_right {
+.passions_right img{
     float: right;
 }
 
-.passions_left {
+.passions_left img{
     float: left;
 }
 
