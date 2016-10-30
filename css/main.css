@@ -129,5 +129,10 @@ body {
     border-radius: 2em;
     display: inline;
     float: left;
-    margin: 2em 2em 2em 2em;
+    margin: 2em 2em 2em 4em;
+}
+
+.passions p {
+    margin: 1em 4em 0em 4em;
+    font-size: 2em;
 }
