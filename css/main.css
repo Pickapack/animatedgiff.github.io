@@ -128,7 +128,7 @@ body {
     height: 300px;
     border-radius: 2em;
     display: inline;
-    margin: 2% 2% 2% 4%;
+    margin: 0% 2% 2% 4%;
 }
 
 .passions_right img{
@@ -140,7 +140,7 @@ body {
 }
 
 .passions p {
-    margin: 4% 2% 0% 4%;
+    margin: 8% 2% 0% 4%;
     font-size: 2em;
     color: #7c7c7c;
     height: 300px;
