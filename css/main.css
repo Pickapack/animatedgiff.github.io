@@ -85,12 +85,12 @@ body {
     margin: 0em 0m 2em 0em;
 }
 
-.background ul {
+.background_list ul {
     padding: 0em 0em 0em 0em;
     margin: 0em 0em 0em 0em;
 }
 
-.background li {
+.background_list li {
     color: #324776;
     font-size: 0.9em;
     display: block; 
@@ -110,7 +110,7 @@ body {
     width: 50%;
 }
 
-.background li img {
+.background_list li img {
     height: 10em;
     margin: auto;
     border-radius: 0;
