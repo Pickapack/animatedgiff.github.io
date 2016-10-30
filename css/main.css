@@ -123,3 +123,11 @@ body {
     text-align: center;
     margin: 2em 0em 0em 0em;
 }
+
+.passions img {
+    height: 20em;
+    border-radius: 2em;
+    display: inline;
+    float: left;
+    margin: 2em 2em 2em 2em;
+}
