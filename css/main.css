@@ -41,7 +41,7 @@ body {
 }
 
 .home {
-    margin: 16em 1em 4em 4em;
+    margin: 16% 1% 4% 4%;
 }
 
 .home h1 {
@@ -125,15 +125,23 @@ body {
 }
 
 .passions img {
-    height: 20em;
+    height: 300px;
     border-radius: 2em;
     display: inline;
+    margin: 2% 2% 2% 4%;
+}
+
+.passions img_right {
+    float: right;
+}
+
+.passions img_left {
     float: left;
-    margin: 2em 2em 2em 4em;
 }
 
 .passions p {
-    margin: 1em 4em 0em 4em;
+    margin: 4% 2% 0% 4%;
     font-size: 2em;
     color: #7c7c7c;
+    height: 300px;
 }
