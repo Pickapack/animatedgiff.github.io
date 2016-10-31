@@ -129,18 +129,22 @@ body {
 
 .bullet_right {
     height: 300px;
+    width: 300px;
     border-radius: 100%;
     display: inline;
     margin: 0% 2% 2% 4%;
     float: right;
+    background-color: black;
 }
 
 .bullet_left {
     height: 300px;
+    width: 300px;
     border-radius: 100%;
     display: inline;
     margin: 0% 2% 2% 4%;
     float: left;
+    background-color: black;
 }
 
 .passions p {
