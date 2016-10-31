@@ -172,11 +172,11 @@ body {
 }
 
 .photos {
-    margin 0em 4em 2em 4em;
+    margin: 0em 4em 2em 4em;
 }
 
 .photos img {
-    height 200px;
+    height: 500px;
 }
 
 .photos p {
