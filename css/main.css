@@ -176,7 +176,7 @@ body {
 }
 
 .photos img {
-    height: 500px;
+    height: 350px;
 }
 
 .photos p {
@@ -184,4 +184,5 @@ body {
     color: #7c7c7c;
     font-style: italic;
     size: 1em;
+    margin: 0em 0em 0em 0em;
 }
