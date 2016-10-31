@@ -165,8 +165,23 @@ body {
     margin: 0% 18% 0% 18%;
 }
 
-.skills p{
+.skills p {
     margin: 0% 18% 2% 18%;
     font-size: 1em;
     color: #7c7c7c;
+}
+
+.photos {
+    margin 0em 4em 2em 4em;
+}
+
+.photos img {
+    height 200px;
+}
+
+.photos p {
+    text-align: left;
+    color: #7c7c7c;
+    font-style: italic;
+    size: 1em;
 }
