@@ -132,8 +132,8 @@ body {
     width: 300px;
     border-radius: 100%;
     display: inline;
+    float: right
     margin: 0% 2% 2% 4%;
-    float: right;
     background-color: black;
 }
 
@@ -142,8 +142,8 @@ body {
     width: 300px;
     border-radius: 100%;
     display: inline;
+    float: right
     margin: 0% 2% 2% 4%;
-    float: left;
     background-color: black;
 }
 
