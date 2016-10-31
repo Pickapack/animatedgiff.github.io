@@ -127,23 +127,19 @@ body {
     font-size: 2.5em;
 }
 
-.passions img {
+.bullet_right {
     height: 300px;
-    border-radius: 2em;
+    border-radius: 100%;
     display: inline;
     margin: 0% 2% 2% 4%;
-}
-
-.passions_right img{
     float: right;
 }
 
-.passions_right_noround img{
-    float: right;
-    border-radius: 0em;
-}
-
-.passions_left img{
+.bullet_left {
+    height: 300px;
+    border-radius: 100%;
+    display: inline;
+    margin: 0% 2% 2% 4%;
     float: left;
 }
 
