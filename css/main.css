@@ -135,6 +135,11 @@ body {
     float: right;
 }
 
+.passions_right_noround img{
+    float: right;
+    border-radius: 0em;
+}
+
 .passions_left img{
     float: left;
 }
