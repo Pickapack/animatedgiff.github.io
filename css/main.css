@@ -137,15 +137,16 @@ body {
     border-radius: 50%;
     display: inline;
     float: left;
-    margin: 4% 2% 0% 4%;
+    margin: 3% 2% 0% 12%;
     background-color: #ffffff;
     border: solid #8eba74 10px;
 }
 
 .passions p {
-    margin: 3% 2% 0% 12%;
-    font-size: 1.5em;
+    margin: 3% 12% 0% 20%;
+    font-size: 1em;
     color: #7c7c7c;
+    line-height: 1.5em;
 }
 
 .skills {
