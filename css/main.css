@@ -194,3 +194,25 @@ body {
     size: 1em;
     margin: 0em 0em 2em 0em;
 }
+
+
+
+.contact ul {
+    text-align: center;
+    margin: 1em 0em 1em 0em;
+    padding: 0;
+}
+
+.contact li {
+     font-size: 2em;
+     display: inline-block; 
+     margin: 0em 2em 0em 2em;
+}
+
+.contact a {
+    color:#324776;
+}
+
+.contact a:hover {
+    color:#8eba74;
+}
